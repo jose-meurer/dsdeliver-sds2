@@ -6,12 +6,12 @@ import { ReactComponent as InstagramIcon} from './instagram.svg';
 function Footer() {
     return (
         <footer className="main-footer">
-            App desenvolvido por José Meurer durante a 2ª ed. do evento Semana DevSuperior
+            App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
                 <a href="https://www.youtube.com/c/DevSuperior" target="_new">
                     <YoutubeIcon />
                 </a>
-                <a href="https://www.linkedin.com/school/devsupeior" target="_new">
+                <a href="https://www.linkedin.com/in/jos%C3%A9-walter-meurer-1b24241b6/" target="_new">
                     <LinkedinIcon />
                 </a>
                 <a href="https://www.instagram.com/devsuperior.ig/" target="_new">
