@@ -91,4 +91,4 @@ npm start
 
 # Autor
 
-[José Meurer](https://www.linkedin.com/in/jos%C3%A9-walter-meurer-1b24241b6/)
+[José Meurer](https://www.linkedin.com/in/jose-walter-meurer-1b24241b6/)
