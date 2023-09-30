@@ -12,17 +12,19 @@ DS Delivery é uma aplicação full stack web e mobile construída durante a 2ª
 A aplicação consiste em um sistema de pedido e entrega de restaurante. Os dados da solicitação do pedido são coletados via web e posteriormente os pedidos são entregues e confirmados no app mobile.
 
 ## Layout mobile
-![Mobile 1](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/HomeAndroid.jpg) ![Mobile 2](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/OrderAndroid.jpg) ![Mobile 3](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/OrderDetailsAndroid.jpg)
+![Mobile 1](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/HomeAndroid.jpg) 
+![Mobile 2](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/OrderAndroid.jpg) 
+![Mobile 3](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/OrderDetailsAndroid.jpg)
 
 ## Layout web
-![Web 1](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/HomeDesktop.png)
+![Web 1](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/HomeDesktop.png)
 
-![Web 2](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/OrderDesktop1.png)
+![Web 2](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/OrderDesktop1.png)
 
-![Web 3](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/OrderDesktop2.png)
+![Web 3](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/OrderDesktop2.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/Josewm18/ImageProject/blob/main/Image/sds2/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/jose-meurer/dsdeliver-sds2/blob/main/ImageProject/Image/sds2/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
